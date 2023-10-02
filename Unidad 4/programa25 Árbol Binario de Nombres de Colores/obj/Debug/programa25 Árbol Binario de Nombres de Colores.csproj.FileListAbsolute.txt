@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\bin\Debug\programa25 Árbol Binario de Nombres de Colores.exe.config
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\bin\Debug\programa25 Árbol Binario de Nombres de Colores.exe
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\bin\Debug\programa25 Árbol Binario de Nombres de Colores.pdb
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\obj\Debug\programa25 Árbol Binario de Nombres de Colores.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\obj\Debug\programa25 Árbol Binario de Nombres de Colores.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\obj\Debug\programa25 Árbol Binario de Nombres de Colores.exe
+C:\Users\antho\source\repos\programa25 Árbol Binario de Nombres de Colores\obj\Debug\programa25 Árbol Binario de Nombres de Colores.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa13 Multiplicación de 2 Numeros", "programa13 Multiplicación de 2 Numeros.csproj", "{7BAB25AF-E814-47AE-BA45-E8D5928ABEA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAB25AF-E814-47AE-BA45-E8D5928ABEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAB25AF-E814-47AE-BA45-E8D5928ABEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAB25AF-E814-47AE-BA45-E8D5928ABEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAB25AF-E814-47AE-BA45-E8D5928ABEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D348833-211A-4C6B-A593-8F2910220CA8}
+	EndGlobalSection
+EndGlobal

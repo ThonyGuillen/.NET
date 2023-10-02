@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\bin\Debug\programa24 Árbol Binario de Numeros Flotantes.exe.config
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\bin\Debug\programa24 Árbol Binario de Numeros Flotantes.exe
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\bin\Debug\programa24 Árbol Binario de Numeros Flotantes.pdb
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\obj\Debug\programa24 Árbol Binario de Numeros Flotantes.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\obj\Debug\programa24 Árbol Binario de Numeros Flotantes.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\obj\Debug\programa24 Árbol Binario de Numeros Flotantes.exe
+C:\Users\antho\source\repos\programa24 Árbol Binario de Numeros Flotantes\obj\Debug\programa24 Árbol Binario de Numeros Flotantes.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\bin\Debug\programa31 Algoritmo de Dijkstra.exe.config
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\bin\Debug\programa31 Algoritmo de Dijkstra.exe
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\bin\Debug\programa31 Algoritmo de Dijkstra.pdb
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\obj\Debug\programa31 Algoritmo de Dijkstra.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\obj\Debug\programa31 Algoritmo de Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\obj\Debug\programa31 Algoritmo de Dijkstra.exe
+C:\Users\antho\source\repos\programa31 Algoritmo de Dijkstra\obj\Debug\programa31 Algoritmo de Dijkstra.pdb

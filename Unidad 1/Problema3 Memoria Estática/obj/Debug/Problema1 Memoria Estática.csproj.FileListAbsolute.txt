@@ -1,0 +1,7 @@
+D:\Estructura De Datos\Problema1 Memoria Estática\bin\Debug\Problema1 Memoria Estática.exe.config
+D:\Estructura De Datos\Problema1 Memoria Estática\bin\Debug\Problema1 Memoria Estática.exe
+D:\Estructura De Datos\Problema1 Memoria Estática\bin\Debug\Problema1 Memoria Estática.pdb
+D:\Estructura De Datos\Problema1 Memoria Estática\obj\Debug\Problema1 Memoria Estática.csproj.AssemblyReference.cache
+D:\Estructura De Datos\Problema1 Memoria Estática\obj\Debug\Problema1 Memoria Estática.csproj.CoreCompileInputs.cache
+D:\Estructura De Datos\Problema1 Memoria Estática\obj\Debug\Problema1 Memoria Estática.exe
+D:\Estructura De Datos\Problema1 Memoria Estática\obj\Debug\Problema1 Memoria Estática.pdb

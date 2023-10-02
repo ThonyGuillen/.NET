@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\bin\Debug\Programa6 Complejidad en el tiempo.exe.config
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\bin\Debug\Programa6 Complejidad en el tiempo.exe
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\bin\Debug\Programa6 Complejidad en el tiempo.pdb
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\obj\Debug\Programa6 Complejidad en el tiempo.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\obj\Debug\Programa6 Complejidad en el tiempo.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\obj\Debug\Programa6 Complejidad en el tiempo.exe
+C:\Users\antho\source\repos\Programa6 Complejidad en el tiempo\obj\Debug\Programa6 Complejidad en el tiempo.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa27 Creación Grafo Matriz Adyacencia", "Programa27 Creación Grafo Matriz Adyacencia.csproj", "{BC7B66A3-FEFA-4651-8E51-548A74371885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7B66A3-FEFA-4651-8E51-548A74371885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7B66A3-FEFA-4651-8E51-548A74371885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7B66A3-FEFA-4651-8E51-548A74371885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7B66A3-FEFA-4651-8E51-548A74371885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39C7E3B-0CC4-449D-AEB2-E397B45A515A}
+	EndGlobalSection
+EndGlobal

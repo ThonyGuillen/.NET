@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 5 Memoria Local", "Problema 5 Memoria Local.csproj", "{73085993-5B43-4B4F-8837-DDAD5BBAE1C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73085993-5B43-4B4F-8837-DDAD5BBAE1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73085993-5B43-4B4F-8837-DDAD5BBAE1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73085993-5B43-4B4F-8837-DDAD5BBAE1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73085993-5B43-4B4F-8837-DDAD5BBAE1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571796F4-8E9D-4E52-A6A0-883713C45A4C}
+	EndGlobalSection
+EndGlobal

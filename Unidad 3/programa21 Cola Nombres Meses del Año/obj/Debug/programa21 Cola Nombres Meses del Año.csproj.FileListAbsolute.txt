@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\bin\Debug\programa21 Cola Nombres Meses del Año.exe.config
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\bin\Debug\programa21 Cola Nombres Meses del Año.exe
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\bin\Debug\programa21 Cola Nombres Meses del Año.pdb
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\obj\Debug\programa21 Cola Nombres Meses del Año.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\obj\Debug\programa21 Cola Nombres Meses del Año.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\obj\Debug\programa21 Cola Nombres Meses del Año.exe
+C:\Users\antho\source\repos\programa21 Cola Nombres Meses del Año\obj\Debug\programa21 Cola Nombres Meses del Año.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\bin\Debug\Programa27 Creación Grafo Matriz Adyacencia.exe.config
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\bin\Debug\Programa27 Creación Grafo Matriz Adyacencia.exe
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\bin\Debug\Programa27 Creación Grafo Matriz Adyacencia.pdb
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\obj\Debug\Programa27 Creación Grafo Matriz Adyacencia.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\obj\Debug\Programa27 Creación Grafo Matriz Adyacencia.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\obj\Debug\Programa27 Creación Grafo Matriz Adyacencia.exe
+C:\Users\antho\source\repos\Programa27 Creación Grafo Matriz Adyacencia\obj\Debug\Programa27 Creación Grafo Matriz Adyacencia.pdb

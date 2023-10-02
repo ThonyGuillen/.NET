@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\bin\Debug\programa22 Lista Enlazada Numeros.exe.config
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\bin\Debug\programa22 Lista Enlazada Numeros.exe
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\bin\Debug\programa22 Lista Enlazada Numeros.pdb
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\obj\Debug\programa22 Lista Enlazada Numeros.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\obj\Debug\programa22 Lista Enlazada Numeros.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\obj\Debug\programa22 Lista Enlazada Numeros.exe
+C:\Users\antho\source\repos\programa22 Lista Enlazada Numeros\obj\Debug\programa22 Lista Enlazada Numeros.pdb

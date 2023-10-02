@@ -1,0 +1,14 @@
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.exe.config
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.exe
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.pdb
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.exe
+C:\Users\antho\source\repos\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.pdb
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.exe.config
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.exe
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\bin\Debug\programa12 Torres de Hanoi.pdb
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.exe
+C:\Users\antho\Downloads\programa12 Torres de Hanoi-20210922T195923Z-001\programa12 Torres de Hanoi\obj\Debug\programa12 Torres de Hanoi.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa28 GrafoPonderado\bin\Debug\programa28 GrafoPonderado.exe.config
+C:\Users\antho\source\repos\programa28 GrafoPonderado\bin\Debug\programa28 GrafoPonderado.exe
+C:\Users\antho\source\repos\programa28 GrafoPonderado\bin\Debug\programa28 GrafoPonderado.pdb
+C:\Users\antho\source\repos\programa28 GrafoPonderado\obj\Debug\programa28 GrafoPonderado.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa28 GrafoPonderado\obj\Debug\programa28 GrafoPonderado.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa28 GrafoPonderado\obj\Debug\programa28 GrafoPonderado.exe
+C:\Users\antho\source\repos\programa28 GrafoPonderado\obj\Debug\programa28 GrafoPonderado.pdb

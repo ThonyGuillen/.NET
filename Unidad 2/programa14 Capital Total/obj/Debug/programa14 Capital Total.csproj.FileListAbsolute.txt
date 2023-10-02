@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa14 Capital Total\bin\Debug\programa14 Capital Total.exe.config
+C:\Users\antho\source\repos\programa14 Capital Total\bin\Debug\programa14 Capital Total.exe
+C:\Users\antho\source\repos\programa14 Capital Total\bin\Debug\programa14 Capital Total.pdb
+C:\Users\antho\source\repos\programa14 Capital Total\obj\Debug\programa14 Capital Total.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa14 Capital Total\obj\Debug\programa14 Capital Total.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa14 Capital Total\obj\Debug\programa14 Capital Total.exe
+C:\Users\antho\source\repos\programa14 Capital Total\obj\Debug\programa14 Capital Total.pdb

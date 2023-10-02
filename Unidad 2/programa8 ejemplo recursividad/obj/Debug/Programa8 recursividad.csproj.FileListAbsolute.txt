@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\Programa8 recursividad\bin\Debug\Programa8 recursividad.exe.config
+C:\Users\antho\source\repos\Programa8 recursividad\bin\Debug\Programa8 recursividad.exe
+C:\Users\antho\source\repos\Programa8 recursividad\bin\Debug\Programa8 recursividad.pdb
+C:\Users\antho\source\repos\Programa8 recursividad\obj\Debug\Programa8 recursividad.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Programa8 recursividad\obj\Debug\Programa8 recursividad.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Programa8 recursividad\obj\Debug\Programa8 recursividad.exe
+C:\Users\antho\source\repos\Programa8 recursividad\obj\Debug\Programa8 recursividad.pdb

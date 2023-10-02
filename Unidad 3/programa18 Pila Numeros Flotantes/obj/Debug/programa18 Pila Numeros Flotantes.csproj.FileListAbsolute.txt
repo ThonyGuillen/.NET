@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\bin\Debug\programa18 Pila Numeros Flotantes.exe.config
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\bin\Debug\programa18 Pila Numeros Flotantes.exe
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\bin\Debug\programa18 Pila Numeros Flotantes.pdb
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\obj\Debug\programa18 Pila Numeros Flotantes.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\obj\Debug\programa18 Pila Numeros Flotantes.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\obj\Debug\programa18 Pila Numeros Flotantes.exe
+C:\Users\antho\source\repos\programa18 Pila Numeros Flotantes\obj\Debug\programa18 Pila Numeros Flotantes.pdb

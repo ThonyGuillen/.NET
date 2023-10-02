@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa30 Camino Más Corto\obj\Debug\programa30 Camino Más Corto.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa30 Camino Más Corto\obj\Debug\programa30 Camino Más Corto.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa30 Camino Más Corto\bin\Debug\programa30 Camino Más Corto.exe.config
+C:\Users\antho\source\repos\programa30 Camino Más Corto\bin\Debug\programa30 Camino Más Corto.exe
+C:\Users\antho\source\repos\programa30 Camino Más Corto\bin\Debug\programa30 Camino Más Corto.pdb
+C:\Users\antho\source\repos\programa30 Camino Más Corto\obj\Debug\programa30 Camino Más Corto.exe
+C:\Users\antho\source\repos\programa30 Camino Más Corto\obj\Debug\programa30 Camino Más Corto.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\bin\Debug\Programa7 Complejidad en el espacio.exe.config
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\bin\Debug\Programa7 Complejidad en el espacio.exe
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\bin\Debug\Programa7 Complejidad en el espacio.pdb
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\obj\Debug\Programa7 Complejidad en el espacio.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\obj\Debug\Programa7 Complejidad en el espacio.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\obj\Debug\Programa7 Complejidad en el espacio.exe
+C:\Users\antho\source\repos\Programa7 Complejidad en el espacio\obj\Debug\Programa7 Complejidad en el espacio.pdb

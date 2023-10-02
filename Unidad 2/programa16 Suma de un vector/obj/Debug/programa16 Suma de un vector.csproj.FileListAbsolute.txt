@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\programa16 Suma de un vector\bin\Debug\programa16 Suma de un vector.exe.config
+C:\Users\antho\source\repos\programa16 Suma de un vector\bin\Debug\programa16 Suma de un vector.exe
+C:\Users\antho\source\repos\programa16 Suma de un vector\bin\Debug\programa16 Suma de un vector.pdb
+C:\Users\antho\source\repos\programa16 Suma de un vector\obj\Debug\programa16 Suma de un vector.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa16 Suma de un vector\obj\Debug\programa16 Suma de un vector.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa16 Suma de un vector\obj\Debug\programa16 Suma de un vector.exe
+C:\Users\antho\source\repos\programa16 Suma de un vector\obj\Debug\programa16 Suma de un vector.pdb

@@ -1,0 +1,14 @@
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.exe.config
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.exe
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.pdb
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.exe
+C:\Users\antho\source\repos\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.pdb
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.exe.config
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.exe
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\bin\Debug\programa13 Multiplicación de 2 Numeros.pdb
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.csproj.AssemblyReference.cache
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.csproj.CoreCompileInputs.cache
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.exe
+C:\Users\antho\Downloads\programa13 Multiplicación de 2 Numeros-20210922T200342Z-001\programa13 Multiplicación de 2 Numeros\obj\Debug\programa13 Multiplicación de 2 Numeros.pdb

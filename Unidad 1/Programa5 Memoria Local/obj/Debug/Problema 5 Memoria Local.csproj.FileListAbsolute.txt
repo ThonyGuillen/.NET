@@ -1,0 +1,7 @@
+C:\Users\antho\source\repos\Problema 5 Memoria Local\bin\Debug\Problema 5 Memoria Local.exe.config
+C:\Users\antho\source\repos\Problema 5 Memoria Local\bin\Debug\Problema 5 Memoria Local.exe
+C:\Users\antho\source\repos\Problema 5 Memoria Local\bin\Debug\Problema 5 Memoria Local.pdb
+C:\Users\antho\source\repos\Problema 5 Memoria Local\obj\Debug\Problema 5 Memoria Local.csproj.AssemblyReference.cache
+C:\Users\antho\source\repos\Problema 5 Memoria Local\obj\Debug\Problema 5 Memoria Local.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Problema 5 Memoria Local\obj\Debug\Problema 5 Memoria Local.exe
+C:\Users\antho\source\repos\Problema 5 Memoria Local\obj\Debug\Problema 5 Memoria Local.pdb
